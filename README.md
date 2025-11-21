@@ -37,6 +37,6 @@ Fornecer um material organizado, direto e profissional para estudos, portfólio 
 
 
 
-## 🧑‍💻 Autor
+##  Autor
 
 Criado por **Thiago Alves** para estudos, prática e portfólio profissional.
